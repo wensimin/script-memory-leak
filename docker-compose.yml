@@ -1,7 +1,0 @@
-version: '3'
-services:
-  app:
-    ports:
-      - "5000:5000"
-    build: .
-    container_name: momery-leak
